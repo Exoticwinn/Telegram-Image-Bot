@@ -17,8 +17,7 @@
 
 ## Скриншот работы бота
 
-![Пример распознавания изображения](<img width="490" height="371" alt="Распознавание фото" src="https://github.com/user-attachments/assets/b0c41d22-bc06-4615-9cfd-39bad2c95d23" />
-)  
+![Пример распознавания изображения](https://github.com/Exoticwinn/Telegram-Image-Bot/tree/main)  
 
 ## Установка и запуск
 
